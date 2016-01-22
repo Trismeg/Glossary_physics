@@ -1,0 +1,5 @@
+\newglossaryentry{Bohr model}
+{
+    name=Bohr model,
+    description={The Bohr model is a theory about atomic structure in which the hydrogen atom ( Bohr atom,) is assumed to consist of a proton as nucleus, with a single electron moving in distinct circular orbits around it}
+}
