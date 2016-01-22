@@ -1,0 +1,5 @@
+\newglossaryentry{wave speed}
+{
+    name=wave speed,
+    description={Wave speed is the distance traveled by a given point on the wave (such as a crest) in a given interval of time.}
+}
