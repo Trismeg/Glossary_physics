@@ -1,0 +1,4 @@
+\newglossaryentry{Bohr radius}
+{
+    name=Bohr radius,
+    description={is the mean radius of the orbit of an electron around the nucleus of a hydrogen atom at its ground state.}
