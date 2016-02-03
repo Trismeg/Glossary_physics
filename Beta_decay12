@@ -1,0 +1,8 @@
+\newglossaryentry{Beta decay}
+{
+    name=Beta decay,
+    description={Beta decay is one process that unstable atoms can use to become more stable. There are two types of beta decay, beta-minus and beta-plus.
+During beta-minus decay, a neutron in an atom's nucleus turns into a proton, an electron and an antineutrino
+During beta-plus decay, a proton in an atom's nucleus turns into a neutron, a positron and a neutrino.
+}
+}
