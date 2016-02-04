@@ -1,0 +1,5 @@
+\newglossaryentry{fission}
+{
+    name=fission,
+    description={Fission is the splitting of an atom.}
+}
