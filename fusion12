@@ -1,0 +1,5 @@
+\newglossaryentry{Fusion}
+{
+    name=Bohr Fusion,
+    description={Fusion or synthesis, the process of combining two or more distinct entities into a new whole}
+}
