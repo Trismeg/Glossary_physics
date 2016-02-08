@@ -1,0 +1,5 @@
+\newglossaryentry{electron}
+{
+    name=electron,
+    description={a stable subatomic particle with a charge of negative electricity, found in all atoms and acting as the primary carrier of electricity in solids.}
+} 
