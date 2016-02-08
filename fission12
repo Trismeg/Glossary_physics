@@ -1,0 +1,4 @@
+\newglossaryentry{Fission}
+{
+    name=Fission,
+    description={ the splitting of an atomic nucleus into approximately equal parts, either spontaneously or as a result of the impact of a particle usually with an associated release of energy}
