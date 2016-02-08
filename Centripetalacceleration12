@@ -1,0 +1,6 @@
++\newglossaryentry(Centripetal acceleration)
+ +(
+ +     name=Centripetal acceleration,
+ +     description={Centripetal acceleration is the idea that any object moving in a circle, in something called circular motion, will have an acceleration vector pointed towards the center of that circle. This is true even if the object is moving around the circle at a constant speed. Centripetal means towards the center.
+ +}
+ +     )
