@@ -1,0 +1,5 @@
+\newglossaryentry{Half-life}
+{ 
+    name=Half-life,
+    description={Half life can be defined as the time taken for the number of nuclei in a radioactive material to halve. It can also be defined as the time taken for the count rate of a sample of radioactive material to fall to half of its starting level.}
+}
