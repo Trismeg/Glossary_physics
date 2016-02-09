@@ -1,0 +1,5 @@
+\newglossaryentry{Nucleus}
+{
+    name=Nucleus,
+    description={ Nucleus means center. In physics, nucleus refers to the positively charged center of the atom containing protons and neutrons. The central region of an atom. Atoms are composed of negatively charged electrons, positively charged protons, and electrically neutral neutrons. The protons and neutrons (collectively known as nucleons) are located in a small central region known as the nucleus. The electrons move in orbits which are large in comparison with the dimensions of the nucleus itself.The number of nucleons in a nucleus is given by the mass number A and the number of protons by the atomic number Z. Nuclear radii r are given approximately by r = 1.2 × 10-15 m A1/3.}
+}
