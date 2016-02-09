@@ -1,0 +1,5 @@
+\newglossaryentry{Mass-energy equivalence}
+{
+name=Mass-energy equivalence
+description={ the equivalence of mass and energy is represent by Einstein's famous equation $E=mc^{2}. The energy E of a physical system is numerically equal to the product of its mass m and the speed of light c squared. Where m=931,5 \frac{MeV}{amu} and c=3*10^{8} m/s}
+}
