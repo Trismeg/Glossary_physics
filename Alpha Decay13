@@ -1,0 +1,5 @@
+\newglossaryentry{Alpha Decay}
+{
+name=Alpha Decay,
+    description={Alpha decay or α-decay is a type of radioactive decay in which an atomic nucleus emits an alpha particle (helium nucleus) and thereby transforms or 'decays' into an atom with a mass number that is reduced by four and an atomic number that is reduced by two.}
+}
