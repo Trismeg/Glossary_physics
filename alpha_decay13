@@ -1,0 +1,5 @@
+\newglossaryentry{alpha decay}
+{
+    name=alpha decay,
+    description={Alpha decay is the spontaneous radioactive decay where an alpha particle is produced. An alpha particle is essentially a helium nucleus or He2+ ion. An atom that undergoes alpha decay will reduce its atomic mass by 4 and become the element two atomic numbers less. The general reaction for alpha decay is $${}^Z_A X \rightarrow {}^{Z-4}_{A-2} Y + {}^4_2 He$$}
+}
