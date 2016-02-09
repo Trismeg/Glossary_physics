@@ -1,0 +1,5 @@
+\newglossaryentry{fusion}
+{
+    name=fusion,
+    description={ nuclear fusion is a nuclear reaction in which two or more atomic nuclei come very close and then collide at a very high speed and join to form a new nucleus. During this process, matter is not conserved because some of the matter of the fusing nuclei is converted to photons (energy).}
+    }
