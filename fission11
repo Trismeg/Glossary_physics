@@ -1,0 +1,5 @@
+\newglossaryentry{fission}
+{
+    name=fission,
+    description={Fission is the splitting of an atomic nucleus into approximately equal parts, either spontaneously or as a result of the impact of a particle usually with an associated release of energy. For example: In the uranium nucleus the nucleons (or protons and neutrons) are bound with an average energy of about 7.6 MeV per nucleon. In the fission product nuclei, the medium binding energy per nucleon amounts to approx. 8.5 MeV. This difference in binding energy of 0.9 MeV per nucleon is released in the nuclear fission. Since the uranium nucleus has 235 nucleons, a quantity of energy of about 210 MeV is released per fission.}
+}
