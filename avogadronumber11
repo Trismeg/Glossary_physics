@@ -1,0 +1,5 @@
+\newglossaryentry{avogadro number}
+{
+name=avogadro number,
+    description={Avogadro's number is the number of particles found in one mole of a substance. No. of atoms in 12 grams of carbon. This experimentel value is approximately 6.0221 x $10^{23}$ particles per mole }
+}
