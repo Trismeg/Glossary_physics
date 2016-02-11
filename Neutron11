@@ -1,0 +1,5 @@
+\newglossaryentry{neutron}
+{
+    name=neutron,
+    description={The neutron is a subatomic particle, symbol n or n0, with no net electric charge and a mass slightly larger than that of a proton.}
+} 
