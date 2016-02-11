@@ -1,0 +1,5 @@
+\newglossaryentry{Frequency}
+{
+    name=frequency,
+    description={is the number of occurrences of a repeating event per unit time}
+}
