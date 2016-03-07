@@ -1,0 +1,5 @@
+\newglossaryentry{meson}
+{
+    name=meson,
+    description={Mesons are subatomic particles composed by one quark and one anti-quark. They are hadronic particles bound together by the strong interaction, and due to their nature, they are very unstable. Mesons are not produced by radioactive decay, but appear in nature only as short-lived products of very high-energy interactions in matter between particles made of quarks. They have a diameter of roughly one fermi.}
+}
