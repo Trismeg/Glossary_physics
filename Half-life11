@@ -1,0 +1,5 @@
+\newglossaryentry{Half-life}
+{ 
+    name=Half-life,
+    description={ Half- life is the amount of time required for the amount of something to fall to half its initial value. The term is very commonly used in nuclear physics to describe how quickly unstable atoms undergo radioactive decay, but it is also used more generally for discussing any type of exponential decay}
+}

@@ -1,0 +1,5 @@
+\newglossaryentry{Bohr model}
+{
+    name=Bohr model,
+    description={The Bohr model is a relatively primitive model of the hydrogen atom, compared to the valence shell atom}
+}
