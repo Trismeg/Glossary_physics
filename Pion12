@@ -1,0 +1,5 @@
+\newglossaryentry{Pion}
+{
+    name=Pion,
+    description={In particle Physics, a pion is any of three subatomic particles. Each Pion exists of a quark and an antiquark and is therefore a meson.}
+} 
