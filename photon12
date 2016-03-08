@@ -1,0 +1,5 @@
+\newglossaryentry{photon}
+{
+    name=photon,
+    description={A photon is an elementary particle, the quantum of all forms of electromagnetic radiation, including light. It is the force carrier for the electromagnetic force, even when static via virtual photons}
+}
