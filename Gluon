@@ -1,0 +1,5 @@
+\newglossaryentry{Gluon}
+{
+    name=Gluon,
+    description={Gluons are the exchange particles for the color force between quarks, analogous to the exchange of photons in the electromagnetic force between two charged particles.}
+}
