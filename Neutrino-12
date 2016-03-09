@@ -1,0 +1,5 @@
+\newglossaryentry{Neutrino}
+{
+    name=Neutrino,
+    description={Neutrino is a lepton, a fundamental particle which is responsible for weak force interaction. It has no charge and negligible mass. }
+}
