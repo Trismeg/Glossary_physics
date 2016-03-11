@@ -1,0 +1,12 @@
+
+\newglossaryentry{Lepton}
+{
+name=Lepton,
+    description={Leptons are one of the two classes of elementary particles of matter, the fermions. Leptons are not influenced by the strong interaction, unlike quarks, the other class of fermions.
+
+Leptons are further divided into two major sub-groups:
+
+Charged Leptons (or electron-like leptons)
+Neutral Leptons (or neutrinos)
+There are a total of 6 flavors of leptons, and these can be categorized in three generations.}
+}
