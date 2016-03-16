@@ -1,0 +1,5 @@
+\newglossaryentry{photon}
+{
+    name=photon,
+    description={is the quantum of electromagnetic radiation, it describes the particleproperties of an electromagnetic wave.}
+}
