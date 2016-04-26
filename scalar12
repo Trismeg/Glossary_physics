@@ -1,0 +1,4 @@
+\newglossaryentry{Scalar}
+{
+    name=Scalar,
+    description={Scalar is a quantity that has magnitude but no direction}
