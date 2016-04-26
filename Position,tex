@@ -1,0 +1,5 @@
+ \newglossaryentry{Position}
+{
+    name=Position,
+    description={Specifying the position of an object is essential in describing motion. In one dimension some typical ways are.}
+}
