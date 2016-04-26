@@ -1,0 +1,5 @@
+
+ \newglossaryentry{Efficiency}
+{
+    name=Efficiency,
+    description={When energy is transferred by an appliance the energy is converted from one form to another.  Some of the energy will be usefully transferred by the device and some will be wasted (transferred to a non-useful form). Eventually all the energy will go to warming up the surroundings, there is still the same amount of energy as you had at the start but because it is spread out it is more difficult to use.The ratio of energy which was transferred to a useful form compared to the total energy initially supplied is called the efficiency of the device. Efficiencies can be written as decimals like 0.33 or percentages 33%. To convert a efficiency expressed as a decimal to a percentage you need to multiply by 100.}
