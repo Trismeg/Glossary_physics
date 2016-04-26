@@ -1,0 +1,5 @@
+ \newglossaryentry{Binding energy per nucleon}
+{
+    name=Binding energy per nucleon,
+    description={Nuclear binding energy is the energy required to break up the nucleus into its separate nucleons OR this can be expressed as the energy released when the nucleus is formed from separate nucleons.Binding energy is equal to the decrease in potential nuclear energy of the nucleons when they come together. This is equivalent to the work done on the nucleons by the strong nuclear force.Binding energy is the energy associated with the strong force that holds the nucleons together.The mass of a nucleus is less than the mass of the individual nucleons that make up that nucleus. The mass difference (￼m) between the two is equivalent to the binding energy of the nucleus.If we know the binding energy in a nucleus, and the number of nucleons, we can work out the binding energy per nucleon, which is the average energy needed to remove each nucleon.The higher the binding energy per nucleon, the more stable is the nucleus.
+    }
