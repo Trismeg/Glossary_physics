@@ -1,0 +1,5 @@
+\newglossaryentry{torque}
+{
+    name=torque,
+    description={Torque is a measure of how much a force acting on an object causes that object to rotate}
+}
