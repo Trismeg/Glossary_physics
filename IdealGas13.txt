@@ -1,0 +1,2 @@
+An ideal gas is defined as one in which all collisions between atoms or molecules are perfectly elastic and in which there are no intermolecular attractive forces. One can visualize it as a collection of perfectly hard spheres which collide but which otherwise do not interact with each other. In such a gas, all the internal energy is in the form of kinetic energy and any change in internal energy is accompanied by a change in temperature .
+Ideal gas law: PV = nRT = NkT
