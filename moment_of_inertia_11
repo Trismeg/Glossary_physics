@@ -1,0 +1,5 @@
+\newglossaryentry{moment of inertia}
+{
+    name=moment of inertia,
+    description={Moment of inertia is the name given to rotational inertia, the rotational analog of mass for linear motion.  The moment of inertia must be specified with respect to a chosen axis of rotation. The sum of the products of the mass and the square of the perpendicular distance to the axis of rotation of each particle in a body rotating about an axis.}
+}
