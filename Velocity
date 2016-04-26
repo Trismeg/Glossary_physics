@@ -1,0 +1,5 @@
+\newglossaryentry{Velocity}
+{
+    name=Velocity,
+    description={The velocity of an object is the rate of change of its position with respect to a frame of reference, and is a function of time. Velocity is equivalent to a specification of its speed and direction of motion (e.g. 60 km/h to the north). Velocity is an important concept in kinematics, the branch of classical mechanics that describes the motion of bodies.}
+}
