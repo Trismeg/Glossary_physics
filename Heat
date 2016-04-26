@@ -1,0 +1,6 @@
+\newglossaryentry{Heat}
+{
+    name=Heat,
+    description={Heat is a form of energy as it spontaneously passes between a system and its surroundings, other than through work or the transfer of matter. In thermodynamics, finer detail of the process of transfer is in principle unspecified
+    }
+    }
