@@ -1,0 +1,10 @@
+\newglossaryentry{Ideal Gas Law}
+An ideal gas is defined as one in which all collisions between atoms or molecules are perfectly eleastic and in which there are no intermolecular attractive forces. One can visualize it as a collection of perfectly hard spheres which collide but which otherwise do not interact with each other. In such a gas, all the internal energy is in the form of kinetic energy and any change in internal energy is accompanied by a change in temperature.
+\\
+$PV = NkT = nRT$\\
+$n =$ number of moles\\
+$R =$ universal gas constant = 8.3145 J/mol K\\
+$N =$ number of molecules\\
+$k =$ Boltzmann constant = $1.38066 \times 10^{-23}$ J/K $= 8.617385 \times 10^{-5}$ eV/K\\
+$k =$ R/NA\\
+$N_A =$ Avogadro's number = $6.0221 \times 10^{23}$ /mol\\
