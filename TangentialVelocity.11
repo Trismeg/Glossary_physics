@@ -1,0 +1,5 @@
+
+\newglossaryentry{Tangential velocity}
+{
+    name=Tangential velocity,
+    description={It is the velocity measured at any point tangent to a turning wheel. Thus tangential velocity, vt is related to the angular velocity of the wheel, ω, and the radius of the wheel, r.}
