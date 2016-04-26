@@ -1,0 +1,6 @@
+\newglossaryentry{radial velocity}
+{
+    name=radial velocity,
+    description={Radial velocity is the component of the motion of a star away from or toward the earth along its line of sight, expressed in miles or kilometers per second and determined by the shift in the wavelength of light emitted by the star.}
+}
+
