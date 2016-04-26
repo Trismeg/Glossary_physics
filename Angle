@@ -1,0 +1,4 @@
+\newglossaryentry{angle}
+{
+    name=angle,
+    description={Angle is used to designate the measure of an angle or of a rotation. This measure is the ratio of the length of a circular arc to its radius. In the case of a geometric angle, the arc is centered at the vertex and delimited by the sides. In the case of a rotation, the arc is centered at the center of the rotation and delimited by any other point and its image by the rotation.}}
