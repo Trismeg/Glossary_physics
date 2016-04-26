@@ -1,0 +1,5 @@
+\newglossaryentry{Tangential Acceleration}
+{
+    name=Tangential Acceleration,
+    description={Tangential acceleration is a measure of how the tangential velocity of a point at a certain radius changes with time. Tangential acceleration is just like linear acceleration, but it’s particular to the tangential direction, which is relevant to circular motion.}
+}
