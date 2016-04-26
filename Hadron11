@@ -1,0 +1,5 @@
+\newglossaryentry{Hadron}
+{
+    name=hadrom,
+    description={A hadron is a composite particle made of quarks held together by the strong force in a similar way asmolecules are held together by the electromagnetic force}
+}
