@@ -1,5 +1,5 @@
 \newglossaryentry{Vector}
 {
     name=Vector,
-    description={a quantity having direction as well as magnitude, especially as determining the position of one point in space relative to another.}
+    description={a quantity that has direction as well as magnitude. For example, it is used to determind the position of one point in space relative to another}
 }
