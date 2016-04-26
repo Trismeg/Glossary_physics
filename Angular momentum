@@ -1,0 +1,5 @@
+\newglossaryentry{angular momentum}
+{
+    name=angular momentum,
+    description={ is the rotational analog of linear momentum; an important quantity in physics because it is a conserved quantity; remains constant unless acted on by an external torque..}
+}
