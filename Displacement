@@ -1,0 +1,4 @@
+\newglossaryentry{displacement}
+{
+    name=displacement,
+    description={A displacement is a vector that is the shortest distance from the initial to the final position of a point P. It quantifies both the distance and direction of an imaginary motion along a straight line from the initial position to the final position of the point.}
