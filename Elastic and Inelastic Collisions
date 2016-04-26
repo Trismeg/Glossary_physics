@@ -1,0 +1,20 @@
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+
+\title{Elastic and Inelastic Collisions}
+\author{Dimash Malik}
+\date{April 2016}
+
+\begin{document}
+
+\maketitle
+
+\section{Introduction}
+A perfectly elastic collision is defined as one in which there is no loss of kinetic energy in the collision. An inelastic collision is one in which part of the kinetic energy is changed to some other form of energy in the collision. Any macroscopic collision between objects will convert some of the kinetic energy into internal energy and other forms of energy, so no large scale impacts are perfectly elastic. Momentum is conserved in inelastic collisions, but one cannot track the kinetic energy through the collision since some of it is converted to other forms of energy.
+\section{Elastic Collisions}
+An elastic collision is an encounter between two bodies in which the total kinetic energy of the two bodies after the encounter is equal to their total kinetic energy before the encounter. Elastic collisions occur only if there is no net conversion of kinetic energy into other forms.
+\section{Inelastic Collisions}
+An inelastic collision, in contrast to an elastic collision, is a collision in which kinetic energy is not conserved due to the action of internal friction.
+In collisions of macroscopic bodies, some kinetic energy is turned into vibrational energy of the atoms, causing aheating effect, and the bodies are deformed.
+
+\end{document}
