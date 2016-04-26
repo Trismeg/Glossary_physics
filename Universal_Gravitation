@@ -1,0 +1,5 @@
+\newglossaryentry{Universal Gravitation}
+{
+    name=Universal Gravitation,
+    description={ Isaac Newton compared the acceleration of the moon to the acceleration of objects on earth. Believing that gravitational forces were responsible for each, Newton was able to draw an important conclusion about the dependence of gravity upon distance. This comparison led him to conclude that the force of gravitational attraction between the Earth and other objects is inversely proportional to the distance separating the earth's center from the object's center. But distance is not the only variable affecting the magnitude of a gravitational force.  Newton's law of universal gravitation is about the universality of gravity. Newton's place in the Gravity Hall of Fame is not due to his discovery of gravity, but rather due to his discovery that gravitation is universal. ALL objects attract each other with a force of gravitational attraction. Gravity is universal. This force of gravitational attraction is directly dependent upon the masses of both objects and inversely proportional to the square of the distance that separates their centers.  $$F_g=\frac{m_1m_2G}{r^2}$$ }
+}
