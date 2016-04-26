@@ -1,0 +1,5 @@
+\newglossaryentry{isothermal}
+{
+    name=isothermal,
+    description={An isothermal process is a change of a system, in which the temperature remains constant: ΔT = 0.}
+}
