@@ -1,6 +1,6 @@
 \newglossaryentry{centripetal acceleration}
 {
     name=centripetal acceleration,
-    description={a force that pulls an object moving in a circular path toward the center of its path}
+    description={centripetal acceleration is the rate of change of tangential velocity}
 }
    
