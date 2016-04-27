@@ -1,0 +1,5 @@
+\newglossaryentry{Elastic collision}
+{
+    name= Elastic collision
+    occurs when a collision has no lost in kinetic energy
+}
