@@ -1,0 +1,18 @@
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+
+\title{Elastic collision and inelastic collision}
+\author{sid007lakhani }
+\date{April 2016}
+
+\begin{document}
+
+\maketitle
+
+\section{Introduction}
+In physics, collisions can be defined as either elastic or inelastic. When bodies collide in the real world, they sometimes squash and deform to some degree. The energy to perform the deformation comes from the objects’ original kinetic energy. In other cases, friction turns some of the kinetic energy into heat. Physicists classify collisions in closed systems (where the net forces add up to zero) based on whether colliding objects lose kinetic energy to some other form of energy:
+
+Elastic collision. In an elastic collision, the total kinetic energy in the system is the same before and after the collision. If losses to heat and deformation are much smaller than the other energies involved, such as when two pool balls collide and go their separate ways, you can generally ignore the losses and say that kinetic energy was conserved.
+
+Inelastic collision. In an inelastic collision, the collision changes the total kinetic energy in a closed system. In this case, friction, deformation, or some other process transforms the kinetic energy. If you can observe appreciable energy losses due to nonconservative forces (such as friction), kinetic energy isn’t conserved.
+\end{document}
