@@ -1,0 +1,6 @@
+\newglossaryentry{Beta decay}
+{
+    name=elastic collision,
+    description={An elastic collision is an encounter between two bodies in which the total kinetic energy of the two bodies after the encounter is equal to their total kinetic energy before the encounter. Elastic collisions occur only if there is no net conversion of kinetic energy into other forms.
+}
+}
