@@ -1,0 +1,7 @@
+\newglossaryentry{inelastic collision}
+{
+    name=inelastic collision,
+    description={An inelastic collision, in contrast to an elastic collision, is a collision in which kinetic energy is not conserved due to the action of internal friction.
+In collisions of macroscopic bodies, some kinetic energy is turned into vibrational energy of the atoms, causing aheating effect, and the bodies are deformed.
+}
+}
