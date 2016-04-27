@@ -1,0 +1,5 @@
+\newglossaryentry{Heat}
+{
+    name=Heat,
+ The transfer of energy from a hot object to a colder object.}
+}
