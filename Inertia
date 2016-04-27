@@ -1,0 +1,6 @@
+\newglossaryentry{Inertia}
+{
+name=Inertia,
+    description={Inertia is the resistance of any physical object to any change in its state of motion (this includes changes to its speed, direction or state of rest). It is the tendency of objects to keep moving in a straight line at constant velocity.
+}
+}
