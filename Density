@@ -1,0 +1,6 @@
+\newglossaryentry{Density}
+{
+    name=Density,
+    description={Density is the mass per unit volume. This means that the density of any solid, liquid or gas can be found by dividing its mass in kilograms by its volume in cubic metres. Density can be found using the equation: The unit for density is kg m
+}
+}
