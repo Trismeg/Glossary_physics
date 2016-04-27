@@ -1,0 +1,4 @@
+\newglossaryentry{Magnetic field}
+{
+name=Magnetic field,
+    description={Magnetic field ($\magnetic$-field) is a field produced by moving electric charges, by electric fields that vary in time, and by the 'intrinsic' magnetic field of elementary particles associated with the spin of the particle.}
