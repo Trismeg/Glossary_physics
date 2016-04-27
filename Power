@@ -1,0 +1,5 @@
+\newglossaryentry(power)
+(
+     name=power,
+     description={Power is the rate of doing work. It is the amount of energy consumed per unit time. Having no direction, it is a scalar quantity. In the SI system, the unit of power is the joule per second (J/s)}
+     )
