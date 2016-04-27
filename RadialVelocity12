@@ -1,0 +1,5 @@
+\newglossaryentry{Radial Velocity}
+{
+    name=Radial Velocity,
+    description={The radial velocity method, also known as Doppler spectroscopy, is the most effective method for locating extrasolar planets with existing technology. Though other approaches hold great promise for the future, the vast majority of Exoplanets discovered so far were detected by this method.}
+} 
