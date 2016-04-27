@@ -1,0 +1,5 @@
+\newglossaryentry(current)
+(
+     name=current,
+     description={Current is a flow of electrical charge carriers, usually electrons or electron-deficient atoms. The common symbol for current is the uppercase letter I. The standard unit is the ampere, symbolized by A}
+     )
