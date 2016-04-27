@@ -1,0 +1,5 @@
+\newglossaryentry{Torque}
+{
+    name=Torque,
+    description={Torque is a measure of how much a force acting on an object causes that object to rotate. The object rotates about an axis, which we will call the pivot point, and will label 'O'. We will call the force 'F'. The distance from the pivot point to the point where the force acts is called the moment arm, and is denoted by 'r'. Note that this distance, 'r', is also a vector, and points from the axis of rotation to the point where the force acts. }
+} 
