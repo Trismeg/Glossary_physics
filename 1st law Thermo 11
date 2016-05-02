@@ -1,0 +1,5 @@
+\newglossaryentry{1st law Thermo}
+{
+    name=1st law Thermo,
+    description={The change in the internal energy of a system is equal to the heat added to the system minus the work done by the system.}
+} 
