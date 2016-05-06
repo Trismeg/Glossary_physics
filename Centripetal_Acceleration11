@@ -1,0 +1,6 @@
+\newglossaryentry{centripetal acceleration}
+{
+    name=centripetal acceleration,
+    description={centripetal acceleration is the rate of change of tangential velocity}
+}
+   
