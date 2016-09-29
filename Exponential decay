@@ -1,0 +1,6 @@
+\newglossaryentry{Exponential decay}
+{
+    name=Exponential decay,
+    description={A quantity is subject to exponential decay if it decreases at a rate proportional to its current value. Symbolically, this process can be expressed by the following differential equation, where N is the quantity and λ (lambda) is a positive rate called the exponential decay constant:
+
+\frac{dN}{dt} = -\lambda N}
